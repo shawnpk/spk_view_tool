@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SpkViewTool::Renderer.copyright 'Shawn Kearney', 'All rights reserved'
+```
 
 ## Development
 
